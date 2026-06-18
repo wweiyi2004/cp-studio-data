@@ -1,0 +1,5 @@
+{
+  "default_memory_limit_mb": 256,
+  "default_time_limit_ms": 1000,
+  "theme": "light"
+}
