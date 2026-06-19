@@ -1,0 +1,11 @@
+{
+  "code": "#include <iostream>\nusing namespace std;\nint main()\n{\n    int a,b;\n    cin>>a>>b;\n    cout<<a+b<<endl;\n    return 0;\n}",
+  "created_at": 1781879913975,
+  "language": "cpp",
+  "memory_used_kb": 756,
+  "problem_id": 2,
+  "score": 1,
+  "time_used_ms": 15,
+  "total": 1,
+  "verdict": "AC"
+}
