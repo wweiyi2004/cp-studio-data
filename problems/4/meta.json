@@ -1,0 +1,21 @@
+{
+  "id": 4,
+  "title": "超级玛丽游戏",
+  "source": "洛谷",
+  "time_limit_ms": 1000,
+  "memory_limit_mb": 128,
+  "checker_type": "default",
+  "tags": [
+    "字符串",
+    "O2优化"
+  ],
+  "platform_bindings": [
+    {
+      "platform": "luogu",
+      "problem_id": "P1000",
+      "url": "https://www.luogu.com.cn/problem/P1000"
+    }
+  ],
+  "created_at": 1781874833880,
+  "updated_at": 1781874833892
+}
