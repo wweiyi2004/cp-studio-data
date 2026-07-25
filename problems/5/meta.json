@@ -1,0 +1,27 @@
+{
+  "id": 5,
+  "title": "[ZJOI2007] 捉迷藏",
+  "source": "洛谷",
+  "time_limit_ms": 5000,
+  "memory_limit_mb": 250,
+  "checker_type": "default",
+  "tags": [
+    "2007",
+    "线段树",
+    "各省省选",
+    "点分治",
+    "浙江",
+    "树的直径",
+    "动态树分治",
+    "线段树分治"
+  ],
+  "platform_bindings": [
+    {
+      "platform": "luogu",
+      "problem_id": "P2056",
+      "url": "https://www.luogu.com.cn/problem/P2056"
+    }
+  ],
+  "created_at": 1784993430100,
+  "updated_at": 1784993430116
+}
