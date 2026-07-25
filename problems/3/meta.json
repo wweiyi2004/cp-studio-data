@@ -1,0 +1,18 @@
+{
+  "id": 3,
+  "title": "B. Many A+B Problems",
+  "source": "AtCoder",
+  "time_limit_ms": 2000,
+  "memory_limit_mb": 1024,
+  "checker_type": "default",
+  "tags": [],
+  "platform_bindings": [
+    {
+      "platform": "atcoder",
+      "problem_id": "abc288_a",
+      "url": "https://atcoder.jp/contests/abc288/tasks/abc288_a"
+    }
+  ],
+  "created_at": 1781874803140,
+  "updated_at": 1781874803153
+}
