@@ -1,0 +1,23 @@
+{
+  "id": 1,
+  "title": "[NOIP 2002 普及组] 过河卒",
+  "source": "洛谷",
+  "time_limit_ms": 1000,
+  "memory_limit_mb": 125,
+  "checker_type": "default",
+  "tags": [
+    "动态规划 DP",
+    "递推",
+    "2002",
+    "NOIP 普及组"
+  ],
+  "platform_bindings": [
+    {
+      "platform": "luogu",
+      "problem_id": "P1002",
+      "url": "https://www.luogu.com.cn/problem/P1002"
+    }
+  ],
+  "created_at": 1781842258409,
+  "updated_at": 1781871543985
+}
