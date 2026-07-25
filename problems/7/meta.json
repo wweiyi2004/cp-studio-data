@@ -1,0 +1,21 @@
+{
+  "id": 7,
+  "title": "你好，世界！",
+  "source": "LibreOJ",
+  "time_limit_ms": 1000,
+  "memory_limit_mb": 256,
+  "checker_type": "default",
+  "tags": [
+    "系统测试",
+    "Special Judge"
+  ],
+  "platform_bindings": [
+    {
+      "platform": "libreoj",
+      "problem_id": "2",
+      "url": "https://loj.ac/p/2"
+    }
+  ],
+  "created_at": 1785000208856,
+  "updated_at": 1785000208864
+}
